@@ -1,6 +1,6 @@
 使用说明
 
-视频教程：
+视频教程：https://www.bilibili.com/video/BV1KLe1zzEAu/
 
 1. 下载Hammerspoon
    
