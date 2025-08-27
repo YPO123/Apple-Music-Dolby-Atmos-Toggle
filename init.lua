@@ -230,4 +230,4 @@ hs.hotkey.bind({"ctrl","cmd","alt"}, "s", atmos_force_off)  -- ⌃⌘⌥S → St
 -- | |__| | | | | |  ____) | |_| |_| | (_| | | (_) |
 -- \_____/|_| |_|_| |_____/ \__|\__,_|\__,_|_|\___/ 
 
-by Zichen Huang 20250826
+-- by Zichen Huang 20250826
